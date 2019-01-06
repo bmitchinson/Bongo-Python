@@ -1,7 +1,9 @@
 # Bongo-Python
-🐍🚌 A python script for interfacing with the Bongo API. (Not a full wrapper)
+### 🐍🚌 A python script for interfacing with the Bongo API. (Not a full wrapper)
 
-It was eventually used for an AWS Lambda to build an alexa skill for students to request local stop times.
+Used for an AWS Lambda to build an alexa skill for students to request local stop times. 
+
+As of January of 2019, dozens of members still use the skill. [Skill Store Page](https://www.amazon.com/Mitchinson-Apps-Bongo/dp/B077X254MN/)
 
 More info here on my [**Blog Post**](benmitchinson.com/Alexa-Bus-Tracker/)
 
